@@ -23,7 +23,7 @@
          <children>
             <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="50.0" text="7">
                <font>
-                  <Font size="18.0" />
+                  <Font size="19.0" />
                </font>
                <HBox.margin>
                   <Insets />
